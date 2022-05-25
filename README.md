@@ -1,5 +1,5 @@
 # semantics-and-accessibility
-
+You too can view this [live website](https://alexmayberry.github.io/semantics-and-accessibility/).
 
 # Overview
 This is my submission for my first Bootcamp Challenge Assignment. I improved the accessibility of this website by improving the existing codebase in the following ways:
@@ -29,4 +29,4 @@ For example:
 I used this technique to rename the `<aside>` section and consolidate the CSS needed to define its styling too.
 
 # Roadmap
-While improving the responsivness of this website and adding features such as CSS animations are outside of the scope of this version of the website, I hope to make these improvements later on.
+While improving the responsivness of this website, image optimization, and adding features such as CSS animations are outside of the scope of this version of the website, I hope to make these improvements later on.
